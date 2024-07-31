@@ -1,0 +1,22 @@
+.custom-card {
+    border: none; 
+  }
+  
+  .custom-card .card-img {
+    max-height: 300px; 
+    object-fit: cover; 
+  }
+  
+  .list-unstyled li {
+    margin-bottom: 10px; 
+  }
+  
+  .list-unstyled li a {
+    text-decoration: none;
+    color: #333; 
+  }
+  
+  .list-unstyled li a:hover {
+    color: #007bff; 
+  }
+  

@@ -1,0 +1,35 @@
+
+footer.footer {
+    background: #1a1a1a;
+    padding: 10px 0; 
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 0.875rem; 
+  }
+  
+  .footer-link {
+    color: #ccc;
+    margin: 0 10px; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.875rem; 
+    transition: color 0.3s ease;
+  }
+  
+  .footer-link:hover {
+    color: #fff;
+  }
+  
+  .social-link {
+    color: #ccc;
+    margin: 0 5px;
+    font-size: 1.25em; 
+    transition: color 0.3s ease;
+  }
+  
+  .social-link:hover {
+    color: #fff;
+  }
+  
