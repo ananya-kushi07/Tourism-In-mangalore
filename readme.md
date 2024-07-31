@@ -40,25 +40,26 @@ Tourism In Mangalore is a comprehensive web application designed to showcase the
 ## Installation
 
 1. Clone the repository:
-   sh
+   ```sh
    git clone https://github.com/ananya-kushi07/Tourism-In-mangalore.git
-   
+   ```
 2. Navigate to the project directory:
-   sh
+   ```sh
    cd Tourism-In-mangalore
-   
+   ```
 3. Install dependencies:
-   sh
+   ```sh
    npm install
-   
+   ```
 4. Run the development server:
-   sh
+   ```sh
    npm start
-   
+   ```
 5. Access the application in your browser:
-   sh
+   ```sh
    http://localhost:3000
-   
+   ```
+
 
 ## Status
 
